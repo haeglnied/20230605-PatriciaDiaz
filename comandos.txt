@@ -1,0 +1,11 @@
+Comandos utilizados en el examen:
+
+- git init
+- git add .
+- git commit -m "commit 01 de patriciadiaz"
+- git remote add origin https://github.com/haeglnied/20230605-PatriciaDiaz
+- git push -u origin main
+- git checkout -b feature
+- git add archivo.txt
+- git commit -m "commit 02 de patriciadiaz"
+- git push origin feature
